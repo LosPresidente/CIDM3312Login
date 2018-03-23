@@ -4,9 +4,9 @@ namespace Midterm.Models{
     public static class Repo{
         private static List<LoginViewModel> users = new List<LoginViewModel>()
         {
-            new LoginViewModel("cat@cat.cat", "cat"),
-            new LoginViewModel("dog@dog.dog", "dog"),
-            new LoginViewModel("rat@rat.rat", "rat")
+            new LoginViewModel("cat@cat.cat", "Catcatcat"),
+            new LoginViewModel("dog@dog.dog", "Dogdogdog"),
+            new LoginViewModel("rat@rat.rat", "Ratratrat")
             
         
         };

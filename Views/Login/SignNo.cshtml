@@ -1,3 +1,12 @@
-@model LoginViewModel
+@*@model LoginViewModel*@
 
-<p>too bad</p>
+<h2>Login Failed</h2>
+<br>
+@ViewBag.EmailIncorrect
+<br>
+@ViewBag.PasswordShort
+<br>
+@ViewBag.PasswordNoUp
+<br>
+
+<a asp-action="Index" type="button">Try again</a>

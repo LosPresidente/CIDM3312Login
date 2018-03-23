@@ -1,0 +1,50 @@
+﻿@model LoginViewModel
+
+@{
+    ViewData["Title"] = "About";
+}
+
+<h2>Login Successfull</h2>
+<h4><a href="http://localhost:5000/">log out</a></h4>
+
+<p>@ViewBag.Jmena</p>
+<p>@Model.Login</p>
+@*
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<div class="jumbotron well">
+				<h2>
+					
+					@if(@Model.Login == true){
+						<p>Login Successfull</p>
+					}else{
+						<p>Login failed </p>
+					}
+				</h2>
+				<h4>
+					@if(@Model.UserCorr == true){
+					}else{
+						<p>Username incorrect </p>
+					}
+				</h4>
+				<h4>
+					@if(@Model.PassCorr == true){
+					}else{
+						<p>Password incorrect </p>
+					}
+				</h4>
+				<p>
+					@if(@Model.Login==true){
+						<p><a href="http://localhost:5000/">log out</a></p>
+					}else{
+						<p>go to <a href="http://localhost:5000/">login page</a></p>
+					}
+				</p>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+*@

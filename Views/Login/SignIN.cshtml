@@ -1,0 +1,57 @@
+@model Midterm.Models.LoginViewModel
+@* DONT CHANGE THE LINE ABOVE*@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@if(1==1){
+	<p>TRUE</p>
+}
+<h1>this is sign in</h1>
+<form asp-action="SignIN" method="post">
+<input asp-for="Username" placeholder="Username" />
+<input asp-for="Password" placeholder="Password" />
+<button type="submit">sign in</button> 
+</form>
+
+ 
+
+@*
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<div class="jumbotron well">
+				<h2>
+					   @if(@Model.Login == true){
+						<p>Login Successfull</p>
+					}else{
+						<p>Login failed </p>
+					}
+				</h2>
+				<h4>
+					@if(@Model.UserCorr == true){
+					}else{
+						<p>Username incorrect </p>
+					}
+				</h4>
+				<h4>
+					@if(@Model.PassCorr == true){
+					}else{
+						<p>Password incorrect </p>
+					}
+				</h4>
+				<p>
+					@if(@Model.Login==true){
+						<p><a href="http://localhost:5000/">log out</a></p>
+					}else{
+						<p>go to <a href="http://localhost:5000/">login page</a></p>
+					}
+				</p>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+*@

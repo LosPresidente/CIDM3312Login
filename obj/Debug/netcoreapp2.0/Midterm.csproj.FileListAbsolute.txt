@@ -1,0 +1,22 @@
+C:\CIDM3312\Midterm\bin\Debug\netcoreapp2.0\Midterm.deps.json
+C:\CIDM3312\Midterm\bin\Debug\netcoreapp2.0\Midterm.runtimeconfig.json
+C:\CIDM3312\Midterm\bin\Debug\netcoreapp2.0\Midterm.runtimeconfig.dev.json
+C:\CIDM3312\Midterm\bin\Debug\netcoreapp2.0\Midterm.dll
+C:\CIDM3312\Midterm\bin\Debug\netcoreapp2.0\Midterm.pdb
+C:\CIDM3312\Midterm\obj\Debug\netcoreapp2.0\Midterm.csproj.CoreCompileInputs.cache
+C:\CIDM3312\Midterm\obj\Debug\netcoreapp2.0\Midterm.AssemblyInfoInputs.cache
+C:\CIDM3312\Midterm\obj\Debug\netcoreapp2.0\Midterm.AssemblyInfo.cs
+C:\CIDM3312\Midterm\obj\Debug\netcoreapp2.0\Midterm.dll
+C:\CIDM3312\Midterm\obj\Debug\netcoreapp2.0\Midterm.pdb
+C:\CIDM3312\Midterm\obj\Debug\netcoreapp2.0\Midterm.csprojResolveAssemblyReference.cache
+C:\Users\Ian Bilek\Desktop\3312 ABA\Midterm\bin\Debug\netcoreapp2.0\Midterm.deps.json
+C:\Users\Ian Bilek\Desktop\3312 ABA\Midterm\bin\Debug\netcoreapp2.0\Midterm.runtimeconfig.json
+C:\Users\Ian Bilek\Desktop\3312 ABA\Midterm\bin\Debug\netcoreapp2.0\Midterm.runtimeconfig.dev.json
+C:\Users\Ian Bilek\Desktop\3312 ABA\Midterm\bin\Debug\netcoreapp2.0\Midterm.dll
+C:\Users\Ian Bilek\Desktop\3312 ABA\Midterm\bin\Debug\netcoreapp2.0\Midterm.pdb
+C:\Users\Ian Bilek\Desktop\3312 ABA\Midterm\obj\Debug\netcoreapp2.0\Midterm.csprojResolveAssemblyReference.cache
+C:\Users\Ian Bilek\Desktop\3312 ABA\Midterm\obj\Debug\netcoreapp2.0\Midterm.csproj.CoreCompileInputs.cache
+C:\Users\Ian Bilek\Desktop\3312 ABA\Midterm\obj\Debug\netcoreapp2.0\Midterm.AssemblyInfoInputs.cache
+C:\Users\Ian Bilek\Desktop\3312 ABA\Midterm\obj\Debug\netcoreapp2.0\Midterm.AssemblyInfo.cs
+C:\Users\Ian Bilek\Desktop\3312 ABA\Midterm\obj\Debug\netcoreapp2.0\Midterm.dll
+C:\Users\Ian Bilek\Desktop\3312 ABA\Midterm\obj\Debug\netcoreapp2.0\Midterm.pdb
